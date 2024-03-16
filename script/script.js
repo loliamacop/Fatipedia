@@ -1,4 +1,5 @@
 const btn = document.querySelectorAll('.header__link')
+const poisk = document.queruSelector('')
 
 btn.forEach((button) => {
     button.addEventListener('click', function () {
