@@ -58,9 +58,13 @@ body{
     background: #723d3d;
 }
 
-/* button{
-    padding: 7px ;
-} */
+button{
+    cursor: pointer;
+}
+
+button:hover{
+    transform: scale(1.1);
+}
 
 .form{
     display: flex;
