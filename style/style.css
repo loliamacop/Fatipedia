@@ -58,11 +58,11 @@ body{
     background: #723d3d;
 }
 
-button{
+.button{
     cursor: pointer;
 }
 
-button:hover{
+.button:hover{
     transform: scale(1.1);
 }
 
